@@ -10,7 +10,7 @@ description: Botanas bien ricas
 about: A simple e-commerce Jekyll theme for simple products.
 about-footer: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin suscipit, libero a molestie consectetur, sapien elit lacinia mi.
 main-image: /assets/images/dragonfruit-ecommerce-jekyll-theme.png
-url: https://camachevaz.github.io/ManjaresEpicos/
+url: https://camachevaz.github.io/ManjaresEpicos
 
 # Logo can be adjusted by setting a proper height. If not, please check _includes/nav.html file for manual editing.
 logo: /assets/images/dragon-fruit.svg
@@ -23,21 +23,21 @@ instagram: https://instagram.com
 email: hello@email.com
 
 menu:
-  - title: Home
-    link: '#page-top'
+  - title: Inicio
+    link: '#inicio'
     page: /
 
-  - title: Products
-    link: '#products'
-    page: /products/
+  - title: Productos
+    link: '#productos'
+    page: /productos/
 
-  - title: Features
-    link: '#features'
-    page: '/#features'
+  - title: Nuestra promesa
+    link: '#promesa'
+    page: '/#promesa'
 
-  - title: Contact
-    link: '#contact'
-    page: '/#contact'
+  - title: Contacto
+    link: '#contacto'
+    page: '/#contacto'
 
 
 
