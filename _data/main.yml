@@ -23,21 +23,21 @@ instagram: https://instagram.com
 email: hello@email.com
 
 menu:
-  - title: Home
-    link: '#page-top'
+  - title: Inicio
+    link: '#inicio'
     page: /
 
-  - title: Products
-    link: '#products'
-    page: /products/
+  - title: Productos
+    link: '#productos'
+    page: /productos/
 
-  - title: Features
-    link: '#features'
-    page: '/#features'
+  - title: Nuestra promesa
+    link: '#promesa'
+    page: '/#promesa'
 
-  - title: Contact
-    link: '#contact'
-    page: '/#contact'
+  - title: Contacto
+    link: '#contacto'
+    page: '/#contacto'
 
 
 
@@ -46,21 +46,21 @@ menu:
 # For complete customization, go to _includes/footer.html
 
 quick-links:
-  - title: Home
+  - title: Inicio
     link: /
 
-  - title: Products
-    link: /products/
+  - title: Productos
+    link: /productos/
 
-  - title: Documentation
+  - title: Desarrolladores
     link: 'https://docs.jekyll-themes.com/docs/dragon-fruit/'
 
-  - title: Contact
+  - title: Contacto
     link: 'mailto:hello@ekyll-themes.com'
 
 
 payment-footer:
-  title: Payment
+  title: Modos e pago
   description: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
   icons: true
   support-button:
@@ -68,7 +68,7 @@ payment-footer:
   documentation-button:
     link: https://docs.jekyll-themes.com/docs/dragon-fruit/
 
-copyright: ' | Powered by <a href="https://snipcart.com/" target="_blank">Snipcart</a>'
+copyright: ' | funcionando con <a href="https://snipcart.com/" target="_blank">Snipcart</a>'
 
 
 # Analytics
