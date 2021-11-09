@@ -5,12 +5,12 @@
 # after a restart or rebuild of the site          #
 ###################################################
 
-title: Manjares Épicos
-description: Botanas bien ricas
-about: Pide botanas para recoger o a domicilio en Mexicali BC.
-about-footer: Botanas hechas con mucho esmero e ingredientes de primera calidad.
+title: Dragon Fruit
+description: E-commerce made easy
+about: A simple e-commerce Jekyll theme for simple products.
+about-footer: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin suscipit, libero a molestie consectetur, sapien elit lacinia mi.
 main-image: /assets/images/dragonfruit-ecommerce-jekyll-theme.png
-url: https://camachevaz.github.io/ManjaresEpicos/
+url: https://dragonfruit.jekyll-themes.com
 
 # Logo can be adjusted by setting a proper height. If not, please check _includes/nav.html file for manual editing.
 logo: /assets/images/dragon-fruit.svg
@@ -23,21 +23,21 @@ instagram: https://instagram.com
 email: hello@email.com
 
 menu:
-  - title: Inicio
-    link: '#inicio'
+  - title: Home
+    link: '#page-top'
     page: /
 
-  - title: Productos
-    link: '#productos'
-    page: /productos/
+  - title: Products
+    link: '#products'
+    page: /products/
 
-  - title: Nuestra promesa
-    link: '#promesa'
-    page: '/#promesa'
+  - title: Features
+    link: '#features'
+    page: '/#features'
 
-  - title: Contacto
-    link: '#contacto'
-    page: '/#contacto'
+  - title: Contact
+    link: '#contact'
+    page: '/#contact'
 
 
 
@@ -46,21 +46,21 @@ menu:
 # For complete customization, go to _includes/footer.html
 
 quick-links:
-  - title: Inicio
+  - title: Home
     link: /
 
-  - title: Productos
-    link: /productos/
+  - title: Products
+    link: /products/
 
-  - title: Desarrolladores
+  - title: Documentation
     link: 'https://docs.jekyll-themes.com/docs/dragon-fruit/'
 
-  - title: Contacto
+  - title: Contact
     link: 'mailto:hello@ekyll-themes.com'
 
 
 payment-footer:
-  title: Modos e pago
+  title: Payment
   description: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
   icons: true
   support-button:
@@ -68,7 +68,7 @@ payment-footer:
   documentation-button:
     link: https://docs.jekyll-themes.com/docs/dragon-fruit/
 
-copyright: ' | funcionando con <a href="https://snipcart.com/" target="_blank">Snipcart</a>'
+copyright: ' | Powered by <a href="https://snipcart.com/" target="_blank">Snipcart</a>'
 
 
 # Analytics
